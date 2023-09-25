@@ -1,0 +1,15 @@
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\bin\Debug\net6.0\Pass_Checken.exe
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\bin\Debug\net6.0\Pass_Checken.deps.json
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\bin\Debug\net6.0\Pass_Checken.runtimeconfig.json
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\bin\Debug\net6.0\Pass_Checken.dll
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\bin\Debug\net6.0\Pass_Checken.pdb
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.csproj.AssemblyReference.cache
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.AssemblyInfoInputs.cache
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.AssemblyInfo.cs
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.csproj.CoreCompileInputs.cache
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.dll
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\refint\Pass_Checken.dll
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.pdb
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\Pass_Checken.genruntimeconfig.cache
+E:\issam_csharp\01_basics\prob_comparison\Pass_Checken\obj\Debug\net6.0\ref\Pass_Checken.dll

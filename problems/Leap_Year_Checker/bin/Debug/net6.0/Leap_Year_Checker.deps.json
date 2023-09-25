@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Leap_Year_Checker/1.0.0": {
+        "runtime": {
+          "Leap_Year_Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leap_Year_Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

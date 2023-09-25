@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pass_Checken/1.0.0": {
+        "runtime": {
+          "Pass_Checken.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pass_Checken/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

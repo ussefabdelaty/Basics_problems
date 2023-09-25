@@ -1,0 +1,15 @@
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\bin\Debug\net6.0\Leap_Year_Checker.exe
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\bin\Debug\net6.0\Leap_Year_Checker.deps.json
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\bin\Debug\net6.0\Leap_Year_Checker.runtimeconfig.json
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\bin\Debug\net6.0\Leap_Year_Checker.dll
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\bin\Debug\net6.0\Leap_Year_Checker.pdb
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.csproj.AssemblyReference.cache
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.AssemblyInfoInputs.cache
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.AssemblyInfo.cs
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.csproj.CoreCompileInputs.cache
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.dll
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\refint\Leap_Year_Checker.dll
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.pdb
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\Leap_Year_Checker.genruntimeconfig.cache
+E:\issam_csharp\01_basics\prob_comparison\Leap_Year_Checker\obj\Debug\net6.0\ref\Leap_Year_Checker.dll

@@ -1,0 +1,15 @@
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\bin\Debug\net6.0\Even_Odd_Checker.exe
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\bin\Debug\net6.0\Even_Odd_Checker.deps.json
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\bin\Debug\net6.0\Even_Odd_Checker.runtimeconfig.json
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\bin\Debug\net6.0\Even_Odd_Checker.dll
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\bin\Debug\net6.0\Even_Odd_Checker.pdb
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.csproj.AssemblyReference.cache
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.AssemblyInfoInputs.cache
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.AssemblyInfo.cs
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.csproj.CoreCompileInputs.cache
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.dll
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\refint\Even_Odd_Checker.dll
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.pdb
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\Even_Odd_Checker.genruntimeconfig.cache
+E:\Coursera_DS\Week1_Basic_DS\Even_Odd_Checker\obj\Debug\net6.0\ref\Even_Odd_Checker.dll
