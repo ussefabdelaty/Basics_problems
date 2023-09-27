@@ -1,0 +1,15 @@
+E:\issam_csharp\01_basics\problems\problems_On_Array\bin\Debug\net6.0\problems_On_Array.exe
+E:\issam_csharp\01_basics\problems\problems_On_Array\bin\Debug\net6.0\problems_On_Array.deps.json
+E:\issam_csharp\01_basics\problems\problems_On_Array\bin\Debug\net6.0\problems_On_Array.runtimeconfig.json
+E:\issam_csharp\01_basics\problems\problems_On_Array\bin\Debug\net6.0\problems_On_Array.dll
+E:\issam_csharp\01_basics\problems\problems_On_Array\bin\Debug\net6.0\problems_On_Array.pdb
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.csproj.AssemblyReference.cache
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.AssemblyInfoInputs.cache
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.AssemblyInfo.cs
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.csproj.CoreCompileInputs.cache
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.dll
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\refint\problems_On_Array.dll
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.pdb
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\problems_On_Array.genruntimeconfig.cache
+E:\issam_csharp\01_basics\problems\problems_On_Array\obj\Debug\net6.0\ref\problems_On_Array.dll

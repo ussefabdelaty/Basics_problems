@@ -33,3 +33,5 @@ NOT A
 7)Temperature Converter:
 Write a program that converts temperatures between Celsius and Fahrenheit. The user should input a temperature and specify whether it's in Celsius or Fahrenheit. Then, convert it to the other scale and print the result.
 
+8) Write a program that takes an array of integers as input and calculates their:
+-sum.  -average.    -Reverse.
