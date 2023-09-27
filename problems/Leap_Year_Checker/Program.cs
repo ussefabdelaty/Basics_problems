@@ -7,7 +7,7 @@
             Console.WriteLine("enter the year!");
             int.TryParse(Console.ReadLine(), out int year);
 
-            if((year % 4 == 0 && year % 100 == 1) || (year % 400 ==1))
+            if((year % 4 == 0 && year % 100 == 1) || (year % 400 ==0))
             {
                 Console.WriteLine("the year is a leap!");
             }
