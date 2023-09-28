@@ -1,0 +1,15 @@
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\bin\Debug\net6.0\Function_Reverse_Array.exe
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\bin\Debug\net6.0\Function_Reverse_Array.deps.json
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\bin\Debug\net6.0\Function_Reverse_Array.runtimeconfig.json
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\bin\Debug\net6.0\Function_Reverse_Array.dll
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\bin\Debug\net6.0\Function_Reverse_Array.pdb
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.csproj.AssemblyReference.cache
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.AssemblyInfoInputs.cache
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.AssemblyInfo.cs
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.csproj.CoreCompileInputs.cache
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.dll
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\refint\Function_Reverse_Array.dll
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.pdb
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\Function_Reverse_Array.genruntimeconfig.cache
+E:\issam_csharp\01_basics\problems\Function_Reverse_Array\obj\Debug\net6.0\ref\Function_Reverse_Array.dll
