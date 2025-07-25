@@ -1,0 +1,14 @@
+E:\issam_csharp\basic_projects\sum_elements_of_array\bin\Debug\net8.0\sum_elements_of_array.exe
+E:\issam_csharp\basic_projects\sum_elements_of_array\bin\Debug\net8.0\sum_elements_of_array.deps.json
+E:\issam_csharp\basic_projects\sum_elements_of_array\bin\Debug\net8.0\sum_elements_of_array.runtimeconfig.json
+E:\issam_csharp\basic_projects\sum_elements_of_array\bin\Debug\net8.0\sum_elements_of_array.dll
+E:\issam_csharp\basic_projects\sum_elements_of_array\bin\Debug\net8.0\sum_elements_of_array.pdb
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.AssemblyInfoInputs.cache
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.AssemblyInfo.cs
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.csproj.CoreCompileInputs.cache
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.dll
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\refint\sum_elements_of_array.dll
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.pdb
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\sum_elements_of_array.genruntimeconfig.cache
+E:\issam_csharp\basic_projects\sum_elements_of_array\obj\Debug\net8.0\ref\sum_elements_of_array.dll
