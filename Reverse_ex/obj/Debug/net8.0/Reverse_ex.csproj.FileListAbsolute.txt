@@ -1,0 +1,14 @@
+E:\issam_csharp\basic_projects\Reverse_ex\bin\Debug\net8.0\Reverse_ex.exe
+E:\issam_csharp\basic_projects\Reverse_ex\bin\Debug\net8.0\Reverse_ex.deps.json
+E:\issam_csharp\basic_projects\Reverse_ex\bin\Debug\net8.0\Reverse_ex.runtimeconfig.json
+E:\issam_csharp\basic_projects\Reverse_ex\bin\Debug\net8.0\Reverse_ex.dll
+E:\issam_csharp\basic_projects\Reverse_ex\bin\Debug\net8.0\Reverse_ex.pdb
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.AssemblyInfoInputs.cache
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.AssemblyInfo.cs
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.csproj.CoreCompileInputs.cache
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.dll
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\refint\Reverse_ex.dll
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.pdb
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\Reverse_ex.genruntimeconfig.cache
+E:\issam_csharp\basic_projects\Reverse_ex\obj\Debug\net8.0\ref\Reverse_ex.dll
