@@ -1,0 +1,14 @@
+E:\issam_csharp\basic_projects\bubble_sort\bin\Debug\net8.0\bubble_sort.exe
+E:\issam_csharp\basic_projects\bubble_sort\bin\Debug\net8.0\bubble_sort.deps.json
+E:\issam_csharp\basic_projects\bubble_sort\bin\Debug\net8.0\bubble_sort.runtimeconfig.json
+E:\issam_csharp\basic_projects\bubble_sort\bin\Debug\net8.0\bubble_sort.dll
+E:\issam_csharp\basic_projects\bubble_sort\bin\Debug\net8.0\bubble_sort.pdb
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.AssemblyInfoInputs.cache
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.AssemblyInfo.cs
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.csproj.CoreCompileInputs.cache
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.dll
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\refint\bubble_sort.dll
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.pdb
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\bubble_sort.genruntimeconfig.cache
+E:\issam_csharp\basic_projects\bubble_sort\obj\Debug\net8.0\ref\bubble_sort.dll
